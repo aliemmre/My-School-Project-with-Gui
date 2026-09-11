@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+TheGodOfWords-Backup/
